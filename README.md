@@ -1,6 +1,14 @@
+# This is the title
+
+
 # ![CI logo](https://codeinstitute.s3.amazonaws.com/fullstack/ci_logo_small.png)
 
 ## Template Instructions
+
+
+This project is about credit card movements.
+
+This is a new one, now.
 
 Welcome,
 
